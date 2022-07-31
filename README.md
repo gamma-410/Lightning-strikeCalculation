@@ -1,4 +1,4 @@
-#Lightning-strikeCalculation
+# Lightning-strikeCalculation
 Goの練習で書いたくだらないコマンドです。　　
 ## 使い方
 - 雷が光ってから音が聞こえるまでの秒数を数える  
